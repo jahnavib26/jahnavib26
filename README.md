@@ -100,6 +100,10 @@
 <br></br>
 
 <div align="center">
+
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnavib26&label=Profile%20views&color=0e75b6&style=flat" alt="jahnavib26"/> 
+  </p>
+
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=jahnavib26&show_icons=true&locale=en" alt="jahnavib26" />
   </p>
