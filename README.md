@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋, I'm Jahnavi</h1>
+  <h1>Hi, I'm Jahnavi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="40" height="40" /></h1>
   <h3>A Passionate Data Scientist</h3>
 </div>
 
