@@ -4,8 +4,8 @@
 
 <p style="text-align: left;">
   Hey there! I’m a computer science student, currently studying in the U.S. (graduating May 2025! 🎓). I’m all about exploring <strong>data science</strong>, <strong>machine learning</strong>, and coding up smart solutions 💻.
-  <br><br>
-Always excited to connect with folks passionate about <strong>tech</strong>, <strong>data</strong>, and making things work better. Let’s build something cool together! 😄
+
+Let’s build something cool together! 😄
 </p>
 <div align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="80" height="80" />
