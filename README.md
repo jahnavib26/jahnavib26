@@ -26,7 +26,6 @@ I love collaborating on exciting projects that blend creativity and technology. 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42" />
   </p>
   <h4>Frameworks & Libraries</h4>
   <p>
@@ -47,7 +46,6 @@ I love collaborating on exciting projects that blend creativity and technology. 
   <p>
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="42" height="42" />
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="42" height="42" />
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="42" height="42" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="42" height="42" />
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="42" height="42" />
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42" />
