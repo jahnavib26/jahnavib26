@@ -1,124 +1,90 @@
 <div align="center">
-  <h1>Hi👋, I'm Jahnavi </h1>
+  <h1>Hi there! 👋 I'm Jahnavi</h1>
+  <p>👩‍💻 Passionate Computer Science Student | 📊 Data Science Enthusiast | 💡 Machine Learning Explorer</p>
 </div>
 
-<p style="text-align: left;">
-  Hey there! I’m a computer science student, currently studying in the U.S. (graduating May 2025! 🎓)
-  
-  I’m all about exploring <strong>data science</strong>, <strong>machine learning</strong>, and coding up smart solutions 💻
+---
 
-  Let’s build something cool together! 😄
-</p>
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="80" height="80" />
-</div>
-<h2>🚀 Languages and Tools I Use</h2>
+### 🎓 About Me
 
+Hey there! I'm currently pursuing a **Master's in Computer Science** in the U.S., set to graduate in **May 2025**. I'm deeply passionate about **data science**, **machine learning**, and crafting innovative solutions through coding.  
 
-
+I love collaborating on exciting projects that blend creativity and technology. Let's team up and build something amazing! 🚀
 
 <div align="center">
-  <p>
-    <span>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" />
-    </span>
-    <span>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" />
-    </span>
-    <span>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" />
-    </span>
-    <span>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" />
-    </span>
-    <span>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" />
-    </span>
-    <span>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" />
-    </span>
-    <span>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" />
-    </span>
-    <span>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" />
-    </span>
-  </p>
-  <p>
-    <span>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="42" height="42" />
-    </span>
-    <span>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" />
-    </span>
-    <span>
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="42" height="42" />
-    </span>
-    <span>
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" />
-    </span>
-    <span>
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" />
-    </span>
-    <span>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" />
-    </span>
-    <span>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" />
-    </span>
-    <span>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="42" height="42" />
-    </span>
-  </p>
-  <p>
-    <span>
-      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="42" height="42" />
-    </span>
-    <span>
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" />
-    </span>
-    <span>
-      <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="42" height="42" />
-    </span>
-    <span>
-      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" />
-    </span>
-    <span>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="42" height="42" />
-    </span>
-    <span>
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" />
-    </span>
-    <span>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
-    </span>
-    <span>
-      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" />
-    </span>
-  </p>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="80" height="80" />
 </div>
 
+---
 
-<h2>⚡️ Where to find me</h2>
-<div align="center">
-<p><a target="_blank" href="https://twitter.com/jahnavib26" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/jahnavib26" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-</div>
-
-<br></br>
+### 🛠️ Tools & Technologies
 
 <div align="center">
-  <p> 
-    <img src="https://komarev.com/ghpvc/?username=jahnavib26&label=Profile%20views&color=0e75b6&style=flat" alt="jahnavib26"/> 
-  </p>
+  <h4>Programming Languages</h4>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=jahnavib26&show_icons=true&locale=en" alt="jahnavib26" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42" />
   </p>
+  <h4>Frameworks & Libraries</h4>
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahnavib26&" alt="jahnavib26" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="42" height="42" />
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="42" height="42" />
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="42" height="42" />
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="42" height="42" />
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="42" height="42" />
   </p>
+  <h4>Databases</h4>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jahnavib26&show_icons=true&locale=en&layout=compact" alt="jahnavib26" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="42" height="42" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="42" height="42" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="42" height="42" />
+  </p>
+  <h4>Tools & Platforms</h4>
+  <p>
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="42" height="42" />
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="42" height="42" />
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="42" height="42" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="42" height="42" />
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="42" height="42" />
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42" />
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="42" height="42" />
   </p>
 </div>
 
+---
+
+### 🌟 Fun Stats
+
+<div align="center">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=jahnavib26&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=jahnavib26&show_icons=true&locale=en" alt="GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahnavib26&" alt="GitHub Streak" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jahnavib26&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  </p>
+</div>
+
+---
+
+### 📫 Connect with Me!
+
+<div align="center">
+  <p>
+    <a href="https://twitter.com/jahnavib26" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-%230f1419?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="https://www.linkedin.com/in/jahnavib26" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230a77b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+</div>
