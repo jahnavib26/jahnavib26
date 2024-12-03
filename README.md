@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there! 👋 I'm Jahnavi</h1>
-  <p>👩‍💻 Passionate Computer Science Student | 📊 Data Science Enthusiast | 💡 Machine Learning Explorer</p>
+  <p> 📊 Data Science Enthusiast | 💡 Machine Learning Explorer</p>
 </div>
 
 ---
