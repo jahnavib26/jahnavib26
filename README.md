@@ -1,96 +1,89 @@
 <div align="center">
-  <h1>Hi there! 👋 I'm Jahnavi</h1>
-  <p> 📊 Data Science Enthusiast | 💡 Machine Learning Explorer</p>
+  <h1>Hi, I'm Jahnavi 👋</h1>
+  <p><em>AI Engineer · LLM Systems · RAG Pipelines · Agentic AI</em></p>
+  
+  <a href="https://www.linkedin.com/in/jahnavib26" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230a77b6?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://twitter.com/jahnavib26" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%230f1419?style=for-the-badge&logo=x&logoColor=white" />
+  </a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=jahnavib26&label=Profile%20views&color=0e75b6&style=for-the-badge" />
 </div>
 
 ---
 
-### 🎓 About Me
+### About Me
 
-Hey there! I'm currently pursuing a **Master's in Computer Science** in the U.S., set to graduate in **May 2025**. I'm deeply passionate about **data science**, **machine learning**, and crafting innovative solutions through coding.  
+I'm an AI Engineer at **NFUTR**, building production AI systems end to end. I started in research and engineering internships, moved through data science at Intellectyx and analytics at Sportytrip and Purdue, and stepped into AI engineering by combining research rigor with practical delivery.
 
-I love collaborating on exciting projects that blend creativity and technology. Let's team up and build something amazing! 🚀
+My focus is the **infrastructure layer around large language models** — the pipelines, agents, and systems that turn experimentation into something reliable and real.
+
+📍 Open to relocation · Targeting AI Engineer, ML Engineer & Founding Engineer roles in San Francisco
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**LLM & Agentic Frameworks**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=graphql&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6A0DAD?style=for-the-badge&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-FF4B4B?style=for-the-badge&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**AI / ML**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)
+![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logoColor=white)
+
+**Backend & APIs**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0052CC?style=for-the-badge&logoColor=white)
+
+**Databases & Vector Stores**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
+
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+### 📌 Highlights
+
+- 🏗 Built production **RAG pipelines** and **LLM agent systems** at NFUTR handling real-world data at scale
+- 📱 Shipped **[Embr](https://www.embrfaith.com)** — faith-based AI companion app, live on iOS
+- 📄 **IEEE published** — CNN-based bearing fault diagnosis, 100% classification accuracy
+- 🧠 Custom **neural architectures** for tabular data — 90%+ accuracy
+- 🎓 Purdue MS CS · 4.0 GPA
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="80" height="80" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jahnavib26&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahnavib26&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 ---
 
-<div align="center">
-  <h4>Programming Languages</h4>
-  <table>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42" /></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42" /></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42" /></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" /></td>
-    </tr>
-  </table>
+### 📫 Connect
 
-  <h4>Frameworks & Libraries</h4>
-  <table>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42" /></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="42" height="42" /></td>
-      <td><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="42" height="42" /></td>
-      <td><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="42" height="42" /></td>
-      <td><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="42" height="42" /></td>
-      <td><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="42" height="42" /></td>
-    </tr>
-  </table>
-
-  <h4>Databases</h4>
-  <table>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="42" height="42" /></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="42" height="42" /></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="42" height="42" /></td>
-    </tr>
-  </table>
-
-  <h4>Tools & Platforms</h4>
-  <table>
-    <tr>
-      <td><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="42" height="42" /></td>
-      <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="42" height="42" /></td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="42" height="42" /></td>
-      <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42" /></td>
-      <td><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="42" height="42" /></td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 🌟 Fun Stats
-
-<div align="center">
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=jahnavib26&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=jahnavib26&show_icons=true&locale=en" alt="GitHub Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahnavib26&" alt="GitHub Streak" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jahnavib26&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  </p>
-</div>
-
----
-
-### 📫 Connect with Me!
-
-<div align="center">
-  <p>
-    <a href="https://twitter.com/jahnavib26" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-%230f1419?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-    </a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/jahnavib26" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230a77b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
-</div>
+[LinkedIn](https://www.linkedin.com/in/jahnavib26) · [Twitter/X](https://twitter.com/jahnavib26) · jahnavibollineni26@gmail.com
