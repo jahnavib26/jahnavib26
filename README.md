@@ -2,14 +2,13 @@
   <h1>Hi, I'm Jahnavi 👋</h1>
   <p><em>AI Engineer · LLM Systems · RAG Pipelines · Agentic AI</em></p>
   
-  <img src="https://komarev.com/ghpvc/?username=jahnavib26&label=Profile%20views&color=0e75b6&style=for-the-badge" />
 </div>
 
 ---
 
 ### About Me
 
-I'm an AI Engineer at **NFUTR**, building production AI systems end to end. I started in research and engineering internships, moved through data science at Intellectyx and analytics at Sportytrip and Purdue, and stepped into AI engineering by combining research rigor with practical delivery.
+I'm an AI Engineer at **NFUTR**, building production AI systems end to end. I started in research and engineering internships, moved through data science at Intellectyx and analytics at Sportytrip and Purdue, and stepped into AI engineering by combining research with applications.
 
 My focus is the **infrastructure layer around large language models** — the pipelines, agents, and systems that turn experimentation into something reliable and real.
 
@@ -65,7 +64,7 @@ My focus is the **infrastructure layer around large language models** — the pi
 - 📱 Shipped **[Embr](https://www.embrfaith.com)** — faith-based AI companion app, live on iOS
 - 📄 **IEEE published** — CNN-based bearing fault diagnosis, 100% classification accuracy
 - 🧠 Custom **neural architectures** for tabular data — 90%+ accuracy
-- 🎓 Purdue MS CS · 4.0 GPA
+- 🎓 CS @ purdue
 
 ---
 
@@ -81,3 +80,4 @@ My focus is the **infrastructure layer around large language models** — the pi
 ### 📫 Connect
 
 [LinkedIn](https://www.linkedin.com/in/jahnavib26) · [Twitter/X](https://twitter.com/jahnavib26) · jahnavibollineni26@gmail.com
+<img src="https://komarev.com/ghpvc/?username=jahnavib26&label=Profile%20views&color=0e75b6&style=for-the-badge" />
