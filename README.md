@@ -2,12 +2,6 @@
   <h1>Hi, I'm Jahnavi 👋</h1>
   <p><em>AI Engineer · LLM Systems · RAG Pipelines · Agentic AI</em></p>
   
-  <a href="https://www.linkedin.com/in/jahnavib26" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230a77b6?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://twitter.com/jahnavib26" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%230f1419?style=for-the-badge&logo=x&logoColor=white" />
-  </a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=jahnavib26&label=Profile%20views&color=0e75b6&style=for-the-badge" />
 </div>
 
@@ -19,7 +13,7 @@ I'm an AI Engineer at **NFUTR**, building production AI systems end to end. I st
 
 My focus is the **infrastructure layer around large language models** — the pipelines, agents, and systems that turn experimentation into something reliable and real.
 
-📍 Open to relocation · Targeting AI Engineer, ML Engineer & Founding Engineer roles in San Francisco
+📍 Open to relocation · Targeting AI Engineer, ML Engineer & Founding Engineer roles
 
 ---
 
