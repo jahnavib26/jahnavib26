@@ -12,7 +12,7 @@ I'm an AI Engineer at **NFUTR**, building production AI systems end to end. I st
 
 My focus is the **infrastructure layer around large language models** — the pipelines, agents, and systems that turn experimentation into something reliable and real.
 
-📍 Open to relocation · Targeting AI Engineer, ML Engineer & Founding Engineer roles
+📍 Open to relocation · Targeting AI Engineer, Software, Product & Founding Engineer roles
 
 ---
 
