@@ -78,7 +78,7 @@ My focus is the **infrastructure layer around large language models** — the pi
 
 ### 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/jahnavib26) · [Twitter/X](https://twitter.com/jahnavib26) · bolli.jahnavi@gmail.com
+[LinkedIn](https://www.linkedin.com/in/jahnavib26) · [Twitter/X](https://twitter.com/jahnavib26) · jahnavibollineni26@gmail.com
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jahnavib26&label=Profile%20views&color=0e75b6&style=for-the-badge" />
