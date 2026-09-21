@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>jahnavi bollineni :)</h1>
+  <h1>jahnavi :)</h1>
   <p><em>AI Engineer · LLM Systems · RAG Pipelines · Agentic AI</em></p>
   
 </div>
