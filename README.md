@@ -12,6 +12,8 @@ recently i've built/worked on:
 - backend infrastructure for production AI products
 - neural network and NLP research published through IEEE
 
+i'm open to ai engineer, product engineer, and founding engineer roles.
+
 please reach out on [linkedin](https://www.linkedin.com/in/jahnavib26) or email jahnavibollineni26 [at] gmail [dot] com
 
 
